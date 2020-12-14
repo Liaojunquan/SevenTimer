@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">晴天钟</string>
+    <string name="civil_weather">天气预报</string>
+    <string name="civil_light">简化版</string>
+    <string name="two_weak">两周展望</string>
+    <string name="astro">天文用途</string>
+    <string name="meteo">气象用途</string>
+    <string name="get_now">获取中...</string>
+    <string name="show_me">在地图上显示自己位置</string>
+</resources>
