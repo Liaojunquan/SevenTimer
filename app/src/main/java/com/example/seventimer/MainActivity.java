@@ -117,10 +117,10 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if(lat != 0 && lng != 0){
                     Intent intent = new Intent(MainActivity.this,ShowPhoto.class);
-                    intent.putExtra("Latitude",lat);
+                    /*intent.putExtra("Latitude",lat);
                     intent.putExtra("Longitude",lng);
                     intent.putExtra("Radius",rad);
-                    intent.putExtra("Direction",dire);
+                    intent.putExtra("Direction",dire);*/
                     startActivity(intent);
                 }
                 else
